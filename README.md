@@ -15,9 +15,9 @@
 # 13multipath
 # 14iscsiadm ..
 # 15NAS/SAN
-16apache - 1 /5
-17OS cluster - 1/5
-18DNS - 1 /5
-19port of different services ssh/ syslog/ftp/ etc
+# 16apache - 1 /5
+# 17OS cluster - 1/5
+# 18DNS - 1 /5
+# 19port of different services ssh/ syslog/ftp/ etc
 20vmware basics
 21Openshift
