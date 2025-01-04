@@ -19,5 +19,5 @@
 # 17OS cluster - 1/5
 # 18DNS - 1 /5
 # 19port of different services ssh/ syslog/ftp/ etc
-20vmware basics
-21Openshift
+# 20vmware basics
+# 21Openshift
