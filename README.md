@@ -1,6 +1,6 @@
 # Learning_Linux
 # the topic we are going to cover
-1.Raid - 1/5
+# 1.Raid - 1/5
 2.os hardening - 1/5
 3.os patching - 1/5
 4.RHN satellite/Suse manager - 0/5
