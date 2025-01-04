@@ -1,10 +1,10 @@
 # Learning_Linux
 # the topic we are going to cover
 # 1.Raid - 1/5
-2.os hardening - 1/5
-3.os patching - 1/5
-4.RHN satellite/Suse manager - 0/5
-5.Linux Rescue/single user issues - 2/5
+# 2.os hardening - 1/5
+# 3.os patching - 1/5
+# 4.RHN satellite/Suse manager - 0/5
+# 5.Linux Rescue/single user issues - 2/5
 6.hostname change - 5 
 7.filesystem related question - 4/5
 8.nfs
