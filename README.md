@@ -1,6 +1,12 @@
 # Learning_Linux
 # the topic we are going to cover
 # 1.Raid - 1/5
+1. RAID (1/5)<br>
+What to Learn: Concepts of RAID levels (0, 1, 5, 10), software RAID setup.<br>
+Resources:<br>
+Video Tutorials: RAID Basics on YouTube.<br>
+Practical Guides: DigitalOcean RAID Setup Guide.<br>
+Labs: Set up RAID with mdadm in a VM or cloud server.<br>
 # 2.os hardening - 1/5
 # 3.os patching - 1/5
 # 4.RHN satellite/Suse manager - 0/5
