@@ -1,6 +1,12 @@
 # Learning_Linux
 # the topic we are going to cover
 # 1.Raid - 1/5
+1. RAID (Redundant Array of Independent Disks)<br>
+RAID is a data storage virtualization technology that combines multiple physical disks into one logical unit to improve performance, redundancy, or both. Common levels include:<br>
+
+RAID 0: Striped data for performance (no redundancy).<br>
+RAID 1: Mirrored data for redundancy.<br>
+RAID 5: Striped with parity for fault tolerance.<br>
 1. RAID (1/5)<br>
 What to Learn: Concepts of RAID levels (0, 1, 5, 10), software RAID setup.<br>
 Resources:<br>
