@@ -20,6 +20,13 @@ Enhancing the security of an operating system by:
 Disabling unnecessary services.
 Setting secure configurations (firewalls, SELinux).
 Applying patches and updates.
+
+2. OS Hardening (1/5)
+What to Learn: Disabling unnecessary services, secure configurations, SELinux/AppArmor.
+Resources:
+Books: "Practical Linux Security Cookbook" by Tajinder Kalsi.
+Course: Linux Server Hardening on Udemy.
+Tools: Learn chkconfig, iptables, and tools like Lynis.
 # 3.os patching - 1/5
 # 4.RHN satellite/Suse manager - 0/5
 # 5.Linux Rescue/single user issues - 2/5
