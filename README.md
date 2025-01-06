@@ -14,6 +14,12 @@ Video Tutorials: RAID Basics on YouTube.<br>
 Practical Guides: DigitalOcean RAID Setup Guide.<br>
 Labs: Set up RAID with mdadm in a VM or cloud server.<br>
 # 2.os hardening - 1/5
+2. OS Hardening
+Enhancing the security of an operating system by:
+
+Disabling unnecessary services.
+Setting secure configurations (firewalls, SELinux).
+Applying patches and updates.
 # 3.os patching - 1/5
 # 4.RHN satellite/Suse manager - 0/5
 # 5.Linux Rescue/single user issues - 2/5
