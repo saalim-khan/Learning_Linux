@@ -17,9 +17,9 @@ Labs: Set up RAID with mdadm in a VM or cloud server.<br>
 OS Hardening.<br>
 Enhancing the security of an operating system by:<br>
 
-Disabling unnecessary services.
-Setting secure configurations (firewalls, SELinux).
-Applying patches and updates.
+Disabling unnecessary services.<br>
+Setting secure configurations (firewalls, SELinux).<br>
+Applying patches and updates.<br>
 
 2. OS Hardening (1/5)
 What to Learn: Disabling unnecessary services, secure configurations, SELinux/AppArmor.
