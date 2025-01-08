@@ -31,6 +31,12 @@ Tools: Learn chkconfig, iptables, and tools like Lynis.<br>
 3. OS Patching
 The process of applying updates to fix security vulnerabilities, improve stability, or add features. Includes kernel updates and software patches.
 
+3. OS Patching (1/5)
+What to Learn: Patch management tools like yum, dnf, apt.
+Resources:
+Documentation: Red Hat or Ubuntu official docs.
+Tutorials: Linux Patch Management Basics.
+Practice: Set up a test Linux system and apply patches manually.
 
 # 4.RHN satellite/Suse manager - 0/5
 # 5.Linux Rescue/single user issues - 2/5
