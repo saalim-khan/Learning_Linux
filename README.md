@@ -28,6 +28,10 @@ Books: "Practical Linux Security Cookbook" by Tajinder Kalsi.<br>
 Course: Linux Server Hardening on Udemy.<br>
 Tools: Learn chkconfig, iptables, and tools like Lynis.<br>
 # 3.os patching - 1/5
+3. OS Patching
+The process of applying updates to fix security vulnerabilities, improve stability, or add features. Includes kernel updates and software patches.
+
+
 # 4.RHN satellite/Suse manager - 0/5
 # 5.Linux Rescue/single user issues - 2/5
 # 6.hostname change - 5 
