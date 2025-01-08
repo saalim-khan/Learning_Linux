@@ -34,11 +34,11 @@ improve stability, or add features.<br>
 Includes kernel updates and software patches.<br>
 
 3. OS Patching (1/5)
-What to Learn: Patch management tools like yum, dnf, apt.
-Resources:
-Documentation: Red Hat or Ubuntu official docs.
-Tutorials: Linux Patch Management Basics.
-Practice: Set up a test Linux system and apply patches manually.
+What to Learn: Patch management tools like yum, dnf, apt.<br>
+Resources:<br>
+Documentation: Red Hat or Ubuntu official docs.<br>
+Tutorials: Linux Patch Management Basics.<br>
+Practice: Set up a test Linux system and apply patches manually.<br>
 
 # 4.RHN satellite/Suse manager - 0/5
 # 5.Linux Rescue/single user issues - 2/5
