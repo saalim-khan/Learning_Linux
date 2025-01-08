@@ -29,7 +29,9 @@ Course: Linux Server Hardening on Udemy.<br>
 Tools: Learn chkconfig, iptables, and tools like Lynis.<br>
 # 3.os patching - 1/5
 3. OS Patching
-The process of applying updates to fix security vulnerabilities, improve stability, or add features. Includes kernel updates and software patches.
+The process of applying updates to fix security vulnerabilities, <br>
+improve stability, or add features.
+Includes kernel updates and software patches.
 
 3. OS Patching (1/5)
 What to Learn: Patch management tools like yum, dnf, apt.
