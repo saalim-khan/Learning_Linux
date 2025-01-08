@@ -30,8 +30,8 @@ Tools: Learn chkconfig, iptables, and tools like Lynis.<br>
 # 3.os patching - 1/5
 3. OS Patching
 The process of applying updates to fix security vulnerabilities, <br>
-improve stability, or add features.
-Includes kernel updates and software patches.
+improve stability, or add features.<br>
+Includes kernel updates and software patches.<br>
 
 3. OS Patching (1/5)
 What to Learn: Patch management tools like yum, dnf, apt.
