@@ -44,8 +44,8 @@ Practice: Set up a test Linux system and apply patches manually.<br>
 4. RHN Satellite/SUSE Manager<br>
 Centralized systems management tools for Red Hat and SUSE Linux environments.<br>
 
-RHN Satellite: For patching, provisioning, and configuration.
-SUSE Manager: Similar functionality for SUSE systems.
+RHN Satellite: For patching, provisioning, and configuration.<br>
+SUSE Manager: Similar functionality for SUSE systems.<br>
 
 # 5.Linux Rescue/single user issues - 2/5
 # 6.hostname change - 5 
