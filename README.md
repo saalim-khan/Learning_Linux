@@ -47,6 +47,13 @@ Centralized systems management tools for Red Hat and SUSE Linux environments.<br
 RHN Satellite: For patching, provisioning, and configuration.<br>
 SUSE Manager: Similar functionality for SUSE systems.<br>
 
+4. RHN Satellite/SUSE Manager (0/5)
+What to Learn: Centralized management of RHEL/SUSE systems, automated patching.
+Resources:
+Official Docs: Red Hat Satellite Documentation.
+SUSE Training: SUSE Manager.
+Labs: Use trial versions to practice.
+
 # 5.Linux Rescue/single user issues - 2/5
 # 6.hostname change - 5 
 # 7.filesystem related question - 4/5
