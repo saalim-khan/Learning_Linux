@@ -55,6 +55,8 @@ SUSE Training: SUSE Manager.<br>
 Labs: Use trial versions to practice.<br>
 
 # 5.Linux Rescue/single user issues - 2/5
+5. Linux Rescue/Single User Issues
+Accessing the system in rescue or single-user mode to troubleshoot boot issues or reset root passwords.
 
 5. Linux Rescue/Single User Issues (2/5)
 What to Learn: Boot in rescue mode, recover from GRUB issues.
@@ -156,8 +158,6 @@ Resources:
 Tutorials: OpenShift Interactive Labs.
 Courses: Red Hat OpenShift Certification.
 ######################################################################
-5. Linux Rescue/Single User Issues
-Accessing the system in rescue or single-user mode to troubleshoot boot issues or reset root passwords.
 
 6. Hostname Change
 Modifying a server’s identifier (hostname) using tools like hostnamectl or by editing configuration files.
