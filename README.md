@@ -60,9 +60,9 @@ Accessing the system in rescue or single-user mode to troubleshoot boot issues o
 
 Linux Rescue/Single User Issues (2/5)<br>
 What to Learn: Boot in rescue mode, recover from GRUB issues.<br>
-Resources:
-Tutorials: GRUB Bootloader Rescue Guide.
-Labs: Use a virtual machine to simulate boot issues and practice rescue.
+Resources:<br>
+Tutorials: GRUB Bootloader Rescue Guide.<br>
+Labs: Use a virtual machine to simulate boot issues and practice rescue.<br>
 # 6.hostname change - 5 
 # 7.filesystem related question - 4/5
 # 8.nfs
