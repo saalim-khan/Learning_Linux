@@ -55,6 +55,12 @@ SUSE Training: SUSE Manager.<br>
 Labs: Use trial versions to practice.<br>
 
 # 5.Linux Rescue/single user issues - 2/5
+
+5. Linux Rescue/Single User Issues (2/5)
+What to Learn: Boot in rescue mode, recover from GRUB issues.
+Resources:
+Tutorials: GRUB Bootloader Rescue Guide.
+Labs: Use a virtual machine to simulate boot issues and practice rescue.
 # 6.hostname change - 5 
 # 7.filesystem related question - 4/5
 # 8.nfs
@@ -72,11 +78,7 @@ Labs: Use trial versions to practice.<br>
 # 20vmware basics
 # 21Openshift
 ################################3
-5. Linux Rescue/Single User Issues (2/5)
-What to Learn: Boot in rescue mode, recover from GRUB issues.
-Resources:
-Tutorials: GRUB Bootloader Rescue Guide.
-Labs: Use a virtual machine to simulate boot issues and practice rescue.
+
 6. Hostname Change (5/5)
 What to Learn: hostnamectl, hostname command.
 Resources:
