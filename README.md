@@ -63,7 +63,14 @@ What to Learn: Boot in rescue mode, recover from GRUB issues.<br>
 Resources:<br>
 Tutorials: GRUB Bootloader Rescue Guide.<br>
 Labs: Use a virtual machine to simulate boot issues and practice rescue.<br>
-# 6.hostname change - 5 
+# 6.hostname change - 5
+
+6. Hostname Change (5/5)
+What to Learn: hostnamectl, hostname command.
+Resources:
+Quick Tutorials: How to Change Hostname.
+Practice: Try in a VM environment.
+
 # 7.filesystem related question - 4/5
 # 8.nfs
 # 9.ftp/sftp - 3/5
@@ -81,11 +88,7 @@ Labs: Use a virtual machine to simulate boot issues and practice rescue.<br>
 # 21Openshift
 ################################3
 
-6. Hostname Change (5/5)
-What to Learn: hostnamectl, hostname command.
-Resources:
-Quick Tutorials: How to Change Hostname.
-Practice: Try in a VM environment.
+
 7. Filesystem (4/5)
 What to Learn: Filesystem types, mounting, troubleshooting.
 Resources:
