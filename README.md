@@ -64,8 +64,8 @@ Resources:<br>
 Tutorials: GRUB Bootloader Rescue Guide.<br>
 Labs: Use a virtual machine to simulate boot issues and practice rescue.<br>
 # 6.hostname change - 5
-Hostname Change
-Modifying a server’s identifier (hostname) using tools like hostnamectl or by editing configuration files.
+Hostname Change<br>
+Modifying a server’s identifier (hostname) using tools like hostnamectl or by editing configuration files.<br>
 
 6. Hostname Change (5/5)
 What to Learn: hostnamectl, hostname command.
