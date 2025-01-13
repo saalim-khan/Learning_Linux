@@ -67,11 +67,11 @@ Labs: Use a virtual machine to simulate boot issues and practice rescue.<br>
 Hostname Change<br>
 Modifying a server’s identifier (hostname) using tools like hostnamectl or by editing configuration files.<br>
 
-6. Hostname Change (5/5)
-What to Learn: hostnamectl, hostname command.
-Resources:
-Quick Tutorials: How to Change Hostname.
-Practice: Try in a VM environment.
+Hostname Change (5/5)<br>
+What to Learn: hostnamectl, hostname command.<br>
+Resources:<br>
+Quick Tutorials: How to Change Hostname.<br>
+Practice: Try in a VM environment.<br>
 
 # 7.filesystem related question - 4/5
 # 8.nfs
