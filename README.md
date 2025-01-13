@@ -64,6 +64,8 @@ Resources:<br>
 Tutorials: GRUB Bootloader Rescue Guide.<br>
 Labs: Use a virtual machine to simulate boot issues and practice rescue.<br>
 # 6.hostname change - 5
+Hostname Change
+Modifying a server’s identifier (hostname) using tools like hostnamectl or by editing configuration files.
 
 6. Hostname Change (5/5)
 What to Learn: hostnamectl, hostname command.
@@ -162,9 +164,7 @@ Tutorials: OpenShift Interactive Labs.
 Courses: Red Hat OpenShift Certification.
 ######################################################################
 
-6. Hostname Change
-Modifying a server’s identifier (hostname) using tools like hostnamectl or by editing configuration files.
-
+ 
 7. Filesystem
 Managing storage systems in Linux, including partitioning, mounting, and troubleshooting filesystem errors. Common filesystems include ext4, xfs, and btrfs.
 
