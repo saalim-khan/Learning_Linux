@@ -82,8 +82,8 @@ Common filesystems include ext4, xfs, and btrfs.<br>
 What to Learn: Filesystem types, mounting, troubleshooting.
 Resources:
 
-Book: "Linux Filesystem Hierarchy" by T. Mack.
-Tutorials: Linux Filesystems.
+Book: "Linux Filesystem Hierarchy" by T. Mack.<br>
+Tutorials: Linux Filesystems.<br>
 Labs: Practice creating/extending filesystems using mkfs and resize2fs.<br>
 # 8.nfs
 # 9.ftp/sftp - 3/5
