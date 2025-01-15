@@ -84,7 +84,7 @@ Resources:
 
 Book: "Linux Filesystem Hierarchy" by T. Mack.
 Tutorials: Linux Filesystems.
-Labs: Practice creating/extending filesystems using mkfs and resize2fs.
+Labs: Practice creating/extending filesystems using mkfs and resize2fs.<br>
 # 8.nfs
 # 9.ftp/sftp - 3/5
 # 10ip addition / route additation, how to make it permanent - 4/5
