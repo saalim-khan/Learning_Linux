@@ -74,6 +74,13 @@ Quick Tutorials: How to Change Hostname.<br>
 Practice: Try in a VM environment.<br>
 
 # 7.filesystem related question - 4/5
+7. Filesystem (4/5)
+What to Learn: Filesystem types, mounting, troubleshooting.
+Resources:
+
+Book: "Linux Filesystem Hierarchy" by T. Mack.
+Tutorials: Linux Filesystems.
+Labs: Practice creating/extending filesystems using mkfs and resize2fs.
 # 8.nfs
 # 9.ftp/sftp - 3/5
 # 10ip addition / route additation, how to make it permanent - 4/5
@@ -91,12 +98,7 @@ Practice: Try in a VM environment.<br>
 ################################3
 
 
-7. Filesystem (4/5)
-What to Learn: Filesystem types, mounting, troubleshooting.
-Resources:
-Book: "Linux Filesystem Hierarchy" by T. Mack.
-Tutorials: Linux Filesystems.
-Labs: Practice creating/extending filesystems using mkfs and resize2fs.
+
 8. NFS
 What to Learn: Configure and manage NFS shares.
 Resources:
