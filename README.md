@@ -75,7 +75,8 @@ Practice: Try in a VM environment.<br>
 
 # 7.filesystem related question - 4/5
  Filesystem<br>
-Managing storage systems in Linux, including partitioning, mounting, and troubleshooting filesystem errors. Common filesystems include ext4, xfs, and btrfs.
+Managing storage systems in Linux, including partitioning, mounting, and troubleshooting filesystem errors. <br>
+Common filesystems include ext4, xfs, and btrfs.
 
 7. Filesystem (4/5)
 What to Learn: Filesystem types, mounting, troubleshooting.
