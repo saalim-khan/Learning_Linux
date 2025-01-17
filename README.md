@@ -87,6 +87,8 @@ Book: "Linux Filesystem Hierarchy" by T. Mack.<br>
 Tutorials: Linux Filesystems.<br>
 Labs: Practice creating/extending filesystems using mkfs and resize2fs.<br>
 # 8.nfs
+NFS (Network File System)
+A protocol that allows file sharing between Linux systems over a network.
 8. NFS
 What to Learn: Configure and manage NFS shares.
 Resources:
@@ -174,8 +176,7 @@ Courses: Red Hat OpenShift Certification.
 
  
 
-8. NFS (Network File System)
-A protocol that allows file sharing between Linux systems over a network.
+8. 
 
 9. FTP/SFTP
 FTP: Transfers files between systems.
