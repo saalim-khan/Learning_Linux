@@ -95,7 +95,7 @@ Resources:<br>
 Tutorials: Setting Up NFS Server and Client.<br>
 Labs: Practice setting up an NFS share in a test environment.<br>
 # 9.ftp/sftp - 3/5
-9. FTP/SFTP (3/5)
+9. FTP/SFTP (3/5)<br>
 What to Learn: Set up FTP/SFTP, secure file transfers.
 Resources:
 Tutorials: FTP and SFTP Setup.
