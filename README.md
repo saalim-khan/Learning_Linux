@@ -96,7 +96,7 @@ Tutorials: Setting Up NFS Server and Client.<br>
 Labs: Practice setting up an NFS share in a test environment.<br>
 # 9.ftp/sftp - 3/5
 9. FTP/SFTP (3/5)<br>
-What to Learn: Set up FTP/SFTP, secure file transfers.
+What to Learn: Set up FTP/SFTP, secure file transfers.<br>
 Resources:
 Tutorials: FTP and SFTP Setup.
 Labs: Use vsftpd or sftp in a VM.
