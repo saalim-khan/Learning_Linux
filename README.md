@@ -112,11 +112,7 @@ Labs: Practice setting up an NFS share in a test environment.<br>
 
 
 
-9. FTP/SFTP (3/5)
-What to Learn: Set up FTP/SFTP, secure file transfers.
-Resources:
-Tutorials: FTP and SFTP Setup.
-Labs: Use vsftpd or sftp in a VM.
+
 10. IP Addition/Route Addition (4/5)
 What to Learn: IP configuration, persistent routes.
 Resources:
