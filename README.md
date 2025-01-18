@@ -95,6 +95,9 @@ Resources:<br>
 Tutorials: Setting Up NFS Server and Client.<br>
 Labs: Practice setting up an NFS share in a test environment.<br>
 # 9.ftp/sftp - 3/5
+FTP/SFTP<br>
+FTP: Transfers files between systems.<br>
+SFTP: Secure file transfer over SSH.<br>
 9. FTP/SFTP (3/5)<br>
 What to Learn: Set up FTP/SFTP, secure file transfers.<br>
 Resources:<br>
