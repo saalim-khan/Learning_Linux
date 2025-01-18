@@ -179,9 +179,7 @@ Courses: Red Hat OpenShift Certification.
 
 8. 
 
-9. FTP/SFTP
-FTP: Transfers files between systems.
-SFTP: Secure file transfer over SSH.
+9. 
 10. IP Addition/Route Addition
 Configuring network interfaces and routes to enable connectivity. Persistent configurations ensure changes remain after a reboot.
 
