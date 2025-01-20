@@ -104,7 +104,11 @@ Resources:<br>
 Tutorials: FTP and SFTP Setup.<br>
 Labs: Use vsftpd or sftp in a VM.<br>
 # 10ip addition / route additation, how to make it permanent - 4/5
-
+10. IP Addition/Route Addition (4/5)
+What to Learn: IP configuration, persistent routes.
+Resources:
+Tutorials: Networking Commands in Linux.
+Labs: Practice using nmcli and ifcfg files.
 
 
 # 11Nic bonding - 3/5
