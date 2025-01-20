@@ -109,6 +109,8 @@ What to Learn: IP configuration, persistent routes.
 Resources:
 Tutorials: Networking Commands in Linux.
 Labs: Practice using nmcli and ifcfg files.
+IP Addition/Route Addition
+Configuring network interfaces and routes to enable connectivity. Persistent configurations ensure changes remain after a reboot.
 
 
 # 11Nic bonding - 3/5
@@ -186,9 +188,7 @@ Courses: Red Hat OpenShift Certification.
 8. 
 
 9. 
-10. IP Addition/Route Addition
-Configuring network interfaces and routes to enable connectivity. Persistent configurations ensure changes remain after a reboot.
-
+10. 
 11. NIC Bonding
 Combining multiple network interfaces for redundancy or increased throughput.
 
